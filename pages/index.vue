@@ -1,5 +1,8 @@
 <template>
   <Tutorial/>
+  <div class="container">
+    <div class="bg-black"></div>
+  </div>
 </template>
 
 <script lang="ts">
